@@ -13,7 +13,8 @@ $sizes: (
   "text-lg": (font-size: rem-calc(18), line-height: rem-calc(24)),
   "text-md": (font-size: rem-calc(16), line-height: rem-calc(24)),
   "text-sm": (font-size: rem-calc(14), line-height: rem-calc(20)),
-  "text-xs": (font-size: rem-calc(12), line-height: rem-calc(18))
+  "text-xs": (font-size: rem-calc(12), line-height: rem-calc(18)),
+  '100':(font-size: rem-calc(12), line-height: rem-calc(18))
 );
 
 $weights: (

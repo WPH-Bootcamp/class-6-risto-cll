@@ -3,13 +3,12 @@
 @use 'mixins' as *;
 
 .title {
-  @include typography('display-lg', 'bold');
+  @include typography('display-2xl', 'bold');
 }
 
 .title-1 {
   color: get-color('brand', '400');
 }
-
 .title-2 {
   color: get-color('warning', '600');
 }
